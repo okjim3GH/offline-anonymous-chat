@@ -17,7 +17,7 @@
     "serve": "^6.4.9"
   },
   "scripts": {
-    "start":  "concurrently \"npm run server\" \"react-scripts start\"",
+    "start": "concurrently \"npm run server\" \"react-scripts start\"",
     "server": "pouchdb-server -d ./db",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",

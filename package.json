@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "concurrently": "^3.5.1",
-    "moment": "^2.20.1",
+    "moment": "^2.29.4",
     "pouchdb-adapter-http": "^6.4.2",
     "pouchdb-adapter-idb": "^6.4.2",
     "pouchdb-server": "^2.3.7",

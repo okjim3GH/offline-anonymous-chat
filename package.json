@@ -12,7 +12,7 @@
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.0",
     "react-toastify": "^3.3.1",
-    "rxdb": "^7.3.2",
+    "rxdb": "^7.7.1",
     "rxjs": "^5.5.6",
     "serve": "^7.1.3"
   },
